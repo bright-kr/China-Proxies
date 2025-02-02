@@ -1,6 +1,6 @@
 # Bright Data's China Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/cn) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/cn) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [China proxies](https://brightdata.com/locations/cn), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from China and don't get blocked again.
@@ -50,7 +50,7 @@ Experience seamless scraping with Bright Data's [China proxies](https://brightda
 - [**Shanghai proxies**](https://brightdata.com/locations/cn/shanghai)
 - [**Hangzhou proxies**](https://brightdata.com/locations/cn/hangzhou)
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/cn) 
 
 ## Getting Started with Bright Data's United States proxies
 1. **Start Free Trial**: No credit card required.
